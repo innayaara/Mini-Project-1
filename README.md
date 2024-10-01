@@ -8,12 +8,12 @@ Coding
 ![Screenshot 2024-10-01 004330](https://github.com/user-attachments/assets/0d1a08ff-5d18-4cc8-a119-1e8caac92f73)
 
 [Uploadprint("_____________________________")
-print("Nama: Indah Maramin Al Inayah")
-print("_______Nim: 2409116086_______")
-print("_____________________________")
+    print("Nama: Indah Maramin Al Inayah")
+    print("_______Nim: 2409116086_______")
+    print("_____________________________")
 
-# input nama dan nim
-while True:
+    # input nama dan nim
+    while True:
     print("Selamat Datang")
     Nama = input("Masukkan Nama: ")
     Nim = input("Masukkan Nim: ")
@@ -23,8 +23,8 @@ while True:
     else:
         print("Maaf Nama dan Nim salah")
         
-# input harga dan jumlah
-while True:
+    # input harga dan jumlah
+    while True:
     Harga = int(input("Masukkan harga barang : Rp. "))
     Jumlah = int(input("Masukkan jumlah barang"))
     
