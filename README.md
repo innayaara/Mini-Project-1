@@ -7,7 +7,8 @@ Coding
 ![Screenshot 2024-10-01 002426](https://github.com/user-attachments/assets/b97deb38-1fe1-47da-bac4-feac5dcca6a1)
 ![Screenshot 2024-10-01 004330](https://github.com/user-attachments/assets/0d1a08ff-5d18-4cc8-a119-1e8caac92f73)
 
-[Uploadprint("_____________________________")
+[Upload
+    print("_____________________________")
     print("Nama: Indah Maramin Al Inayah")
     print("_______Nim: 2409116086_______")
     print("_____________________________")
