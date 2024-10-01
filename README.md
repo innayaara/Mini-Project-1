@@ -10,3 +10,30 @@ Coding
 Flowchart
 
 ![Screenshot 2024-10-01 004958](https://github.com/user-attachments/assets/00df4a0c-6c88-42c9-a231-53431eca632e) 
+
+Mulai: Program dimulai.
+
+Input Nama dan Nim: Pengguna memasukkan nama dan nim
+
+Nama= Naya, Nim= 2409116086: Pengguna memasukkan nama dan nim
+
+Jika Ya: Lanjut ke Input harga dan jumlah barang
+
+Jila Tidak: Menampilkan "Maaf Nama dan Nim salah" dan mengulang untuk Input nama dan nim 
+
+Input harga dan jumlah: Pengguna memasukkan harga dan jumlah barang lalu menhitung total = harga * jumlah 
+
+Total > Rp. 250.000 untuk medapatkan diskon dengan harga = total - (0.25 * total)
+
+Jika Ya: Pengguna mendapatkan diskon 25%
+
+Jika Tidak: Pengguna tidak mendapatkan diskon
+
+Tanya apakah ingin menghitung total harga lagi: Program memberikan pilihan kepada pengguna
+
+Jika Ya: Kembali ke langkah input barang
+
+Jika Tidak: Program selesai
+
+Selesai: Program berakhir jika pengguna memilih tidak menghitung total harga lagi.
+Jika Ya: 
